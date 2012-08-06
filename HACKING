@@ -1,0 +1,11 @@
+Hacking Interf
+==============
+
+Development Notes for 'interf.py'.
+Interf is developed in Python 2.7, and styled in accordance with PEP8.
+
+testing
+-------
+
+Tests are done using the 'PyVows' test framework.
+
