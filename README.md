@@ -32,3 +32,7 @@ Contact
 
  Post bugs, fixes, and other issues on github.com/Chris2048
 
+Todo
+----
+
+ Integrate animated-gif code from 'Animated gifs, the hard way'.
